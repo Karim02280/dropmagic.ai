@@ -157,7 +157,6 @@ Easy visual editor and onboarding:
 
 ## Customer Support
 
-- Email support: [hello@dropmagic.ai](mailto:hello@dropmagic.ai)  
 - Founders are active and responsive
 
 ## Final Verdict
